@@ -1,0 +1,71 @@
+[0m[[0mdebug[0m] [0m[naha] The Node source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	insertOrdered.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) Node: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) Node.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/Yamato/generics/src/test/scala/TestSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The ListFunctions$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	insertOrdered.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) ListFunctions$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) ListFunctions$.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/Yamato/generics/src/test/scala/TestSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The AltInt source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	insertOrdered.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AltInt: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AltInt.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/Yamato/generics/src/test/scala/TestSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The AltInt$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	insertOrdered.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) AltInt$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) AltInt$.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/Yamato/generics/src/test/scala/TestSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The Leaf source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	insertOrdered.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) Leaf: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) Leaf.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/Yamato/generics/src/test/scala/TestSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The BinTree source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	insertOrdered.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) BinTree: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) BinTree.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/Yamato/generics/src/test/scala/TestSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The Node$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	insertOrdered.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) Node$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) Node$.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/Yamato/generics/src/test/scala/TestSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] The Leaf$ source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	insertOrdered.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Files invalidated by inheriting from (external) Leaf$: Set(); now invalidating by inheritance (internally).[0m
+[0m[[0mdebug[0m] [0m[naha] Getting direct dependencies of all sources transitively invalidated by inheritance.[0m
+[0m[[0mdebug[0m] [0m[naha] Getting sources that directly depend on (external) Leaf$.[0m
+[0m[[0mdebug[0m] [0m[naha] None of the modified names appears in /Users/Yamato/generics/src/test/scala/TestSuite.scala. This dependency is not being considered for invalidation.[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set(NamesChange(Node,ModifiedNames(regularNames = insertOrdered, implicitNames = )), NamesChange(ListFunctions$,ModifiedNames(regularNames = insertOrdered, implicitNames = )), NamesChange(AltInt,ModifiedNames(regularNames = insertOrdered, implicitNames = )), NamesChange(AltInt$,ModifiedNames(regularNames = insertOrdered, implicitNames = )), NamesChange(Leaf,ModifiedNames(regularNames = insertOrdered, implicitNames = )), NamesChange(BinTree,ModifiedNames(regularNames = insertOrdered, implicitNames = )), NamesChange(Node$,ModifiedNames(regularNames = insertOrdered, implicitNames = )), NamesChange(Leaf$,ModifiedNames(regularNames = insertOrdered, implicitNames = )))[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m

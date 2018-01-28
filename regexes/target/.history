@@ -1,0 +1,12 @@
+:quit
+exit
+test
+:quit
+exit
+test
+console
+test
+:q
+exit
+test
+submit
